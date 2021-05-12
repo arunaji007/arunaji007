@@ -15,7 +15,6 @@
 - 🤔 I’m looking for help with NLP.
 - ⚡ Fun fact: YOUR BRAIN MOVES.
 
-
-
   ![Arun's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arunaji007&show_icons=true) 
-  ![Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=zyjvltq8vlvwtfon8tvh8p9by&width=400)
+  
+  ##![Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=zyjvltq8vlvwtfon8tvh8p9by&width=400)
