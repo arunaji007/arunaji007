@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/arunaji601/">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 <a href="https://www.kaggle.com/arunkumar070/">
-<img src="https://simpleicons.org/icons/kaggle.svg" alt="LinkedIn"/></a> 
+<img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg" alt="LinkedIn"/></a> 
 
 <p> Hi I'm Arun Kumar D </p>
 
