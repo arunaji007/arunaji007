@@ -2,12 +2,10 @@
 <a href="https://www.linkedin.com/in/arun-kumar-d-6a8523168/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://twitter.com/Arun_Aji601">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-<a href="https://www.youtube.com/channel/UCme1zfZqFPMGBxygGe9eRSQ">
-<img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a> 
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> >
 <a href="https://www.instagram.com/arunaji601/">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
-Hi I'm Arun Kumar D
+ <p> Hi I'm Arun Kumar D </p>
 
 - 🌱 I’m currently studying MSc Data Science in PSG College of Technology.
 - 👯 I’m looking to collaborate on Web Scraping and Data Extraction.
