@@ -8,7 +8,7 @@
 <a href="https://www.kaggle.com/arunkumar070/">
 <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg" alt="LinkedIn"/></a> 
 
-<p> Hi I'm Arun Kumar D </p>
+<h><b> Hi I'm Arun Kumar D </b></h>
 
 - 🌱 I’m currently studying MSc Data Science in PSG College of Technology.
 - 👯 I’m looking to collaborate on Web Scraping and Data Extraction.
@@ -16,5 +16,4 @@
 - ⚡ Fun fact: YOUR BRAIN MOVES.
 
   ![Arun's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arunaji007&show_icons=true) 
-  
-  ##![Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=zyjvltq8vlvwtfon8tvh8p9by&width=400)
+
