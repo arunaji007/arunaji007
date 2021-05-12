@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**arunaji007/arunaji007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi I'm Arun Kumar D
 
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Web Scraping and Data Extraction.
