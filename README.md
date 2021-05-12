@@ -19,4 +19,6 @@
 
   ![Arun's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arunaji007&show_icons=true) 
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arunaji007)
-  
+  Sotify Activity :
+
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=arunaji)
