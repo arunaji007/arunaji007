@@ -18,7 +18,4 @@
 
 
   ![Arun's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arunaji007&show_icons=true) 
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arunaji007)
-  
-  Spotify Activity :
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zyjvltq8vlvwtfon8tvh8p9by&width=400)
+  ![Spotify Activity](https://spotify-recently-played-readme.vercel.app/api?user=zyjvltq8vlvwtfon8tvh8p9by&width=400)
