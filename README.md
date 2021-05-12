@@ -14,5 +14,6 @@
 
 
 
-  ![Arun's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arunaji007&show_icons=true)  ![Arun's' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunaji007) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arunaji007)
+  ![Arun's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arunaji007&show_icons=true)  ![Arun's' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunaji007) 
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arunaji007)
   
