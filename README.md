@@ -5,6 +5,9 @@
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 <a href="https://www.instagram.com/arunaji601/">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
+<a href="https://www.kaggle.com/arunkumar070/">
+<img src="https://simpleicons.org/icons/kaggle.svg" alt="LinkedIn"/></a> 
+
 <p> Hi I'm Arun Kumar D </p>
 
 - 🌱 I’m currently studying MSc Data Science in PSG College of Technology.
@@ -14,6 +17,6 @@
 
 
 
-  ![Arun's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arunaji007&show_icons=true)  ![Arun's' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunaji007) 
+  ![Arun's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arunaji007&show_icons=true) 
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arunaji007)
   
